@@ -1,0 +1,1 @@
+Ok, so I leared SQL awhile back... just a little. Then got totally spoiled w/ rails. Trying to pick it up again. I chose sqlite mainly because of this awesome online resource: Learn SQL the hard way. Epic collection of books. 
